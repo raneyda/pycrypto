@@ -1,5 +1,5 @@
-# pycrypto
-Playing with python crypto libraries
+# DR crypto - old school
+Playing with python and old school crypto.  By old school I mean not computationally difficult. Something that could easily be done with paper and pencil.  For example if you wanted to send an encoded message to a friend in the mail but didn't want the message to be immediately obvious.
 
 ## Ciphers 
 
