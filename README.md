@@ -62,7 +62,7 @@ Complete!
 
 In development
 
-![pigpen - custom chart](https://github.com/raneyda/pycrypto/pigpen_alpha.png "pigpen - custom chart")
+![pigpen - custom chart](https://github.com/raneyda/pycrypto/blob/master/pigpen_alpha.png "pigpen - custom chart")
 
 Pigpen - Symbol chart
 [Unicode chart](https://www.unicode.org/charts/PDF/U25A0.pdf)
